@@ -1,12 +1,12 @@
 {
-	  anytime: [
+	  "anytime" : [
 			  "Hey there sexy!",
 			  "You matter!",
 			  "You are important!",
 			  "You are worthwhile!",
 			   "You are amazing!"
 			  ],
-	  morning: [
+	  "morning" : [
 			  "Good morning, beautiful!",
 			   "Enjoy your day!",
 			   "How was your sleep?",
@@ -14,14 +14,14 @@
 			   "Who needs coffee when you have your smile?",
 			   "Go get 'em Tiger!"
 			  ],
-	  afternoon: [
+	  "afternoon" : [
 			  "Hello, beauty!",
 			  "You look sexy!",
 			  "Looking good today!",
 			  "You are making a difference!",
 			  "You're more fun than bubble wrap!"
 			  ],
-	  evening: [
+	  "evening" : [
 			  "Wow, you look hot!",
 			  "You look nice!",
 			  "Hi, sexy!",
@@ -29,41 +29,41 @@
 			  "You are making a difference.",
 			  "The day was better for your efforts."
 			  ],
-	  day_sunny: [
+	  "day_sunny" : [
 			  "Today is a sunny day",
 			  "It's a beautiful day"
 			  ],
-	  day_cloudy: [
+	  "day_cloudy" : [
 			  ],
-	  cloudy: [
+	  "cloudy" : [
 			  ],
-	  cloudy_windy: [
+	  "cloudy_windy" : [
 			  ],
-	  showers: [
+	  "showers" : [
 			  ],
-	  thunderstorm: [
+	  "thunderstorm" : [
 			  ],
-	  fog: [
+	  "fog" : [
 			  ],
-	  snow: [
+	  "snow" : [
 			  "Snowball battle!"
 			  ],
-	  rain: [
+	  "rain" : [
 			  "Don't forget your umbrella"
 			  ],
-	  night_clear: [
+	  "night_clear" : [
 			  ],
-	  night_cloudy: [
+	  "night_cloudy" : [
 			  ],
-	  night_showers: [
+	  "night_showers" : [
 			  ],
-	  night_rain: [
+	  "night_rain" : [
 			  ],
-	  night_thunderstorm: [
+	  "night_thunderstorm" : [
 			  ],
-	  night_snow: [
+	  "night_snow" : [
 			  ],
-	  night_alt_cloudy_windy: [
+	  "night_alt_cloudy_windy" : [
 			  ],
 	  "....-01-01": ["Happy new year!"]
 	  "....-08-05": ["Happy Birthday!"]
